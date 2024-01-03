@@ -5,7 +5,7 @@ with open('README.md', encoding='utf-8') as f:
 
 setup(
     name='FileChunkCRUD',
-    version='0.0.1',
+    version='0.0.2',
     description='Python package for CRUD operations on large files in chunks.',
     long_description=long_description,
     long_description_content_type='text/markdown',
